@@ -1,4 +1,4 @@
-﻿[![ci.appveyor](https://ci.appveyor.com/project/ivom2k/imagesharp-test)](https://ci.appveyor.com/api/projects/status/github/ivom2k/imagesharp-test?branch=master&svg=true)
+﻿![(https://ci.appveyor.com/project/ivom2k/imagesharp-test)](https://ci.appveyor.com/api/projects/status/github/ivom2k/imagesharp-test?branch=master&svg=true)
 
 **Basic image manipulations**
 
