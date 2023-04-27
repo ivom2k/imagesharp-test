@@ -1,4 +1,6 @@
-﻿**Basic image manipulations**
+﻿![https://ci.appveyor.com/api/projects/status/github/ivom2k/imagesharp-test?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/ivom2k/imagesharp-test?branch=master&svg=true)
+
+**Basic image manipulations**
 
 1. Flipping - Horizontal axis flipping is much more common than flipping the vertical axis.
 2. Color space - Very simple color augmentations include isolating a single color channel such as R, G, or B. An image can be quickly converted into its representation in one color channel by isolating that matrix and adding 2 zero matrices from the other color channels. 
